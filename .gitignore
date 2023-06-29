@@ -1,0 +1,5 @@
+venv/
+requirements.txt
+test_main.http
+.idea/
+__pycache__/
